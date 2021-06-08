@@ -1,1 +1,2 @@
-Primer za GIT..bla bla bla
+Primer za GIT 2..test
+
