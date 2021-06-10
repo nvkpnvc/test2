@@ -1,0 +1,48 @@
+[33mcommit 5e89db5af51476b0e7bb2a8e53e75e57b8ee257a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Novak <41644576+nvkpnvc@users.noreply.github.com>
+Date:   Tue Jun 8 14:49:05 2021 +0200
+
+    Update README.md
+
+[33mcommit d7c74804e67d7985024cef1f0f82b004bb76550d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 06cf9db 8d26564
+Author: npaunovic <nvkpnvc@gmail.com>
+Date:   Fri May 21 15:03:13 2021 +0200
+
+    Merge branch 'hello-world-images'
+
+[33mcommit 8d265646100fcdd520e094abbc2995efee8257f8[m
+Author: npaunovic <nvkpnvc@gmail.com>
+Date:   Fri May 21 14:45:20 2021 +0200
+
+    aAded hello git
+
+[33mcommit e03ed0e14b3a1de93783a84a16e1a0eb61cbafde[m
+Author: npaunovic <nvkpnvc@gmail.com>
+Date:   Fri May 21 14:35:44 2021 +0200
+
+    added new image
+
+[33mcommit 06cf9db8d9a530443571d0c76d2a16305ef01c07[m
+Author: npaunovic <nvkpnvc@gmail.com>
+Date:   Fri May 21 13:33:52 2021 +0200
+
+    updated index.html with emergency fix
+
+[33mcommit 94647c5dbfd7b88bbbf067c875395742bb48e42e[m
+Author: npaunovic <nvkpnvc@gmail.com>
+Date:   Fri May 21 13:25:18 2021 +0200
+
+    Added image to hello world
+
+[33mcommit 1154024bfb84c747aba2c62d4846febb32a4f609[m
+Author: npaunovic <nvkpnvc@gmail.com>
+Date:   Fri May 21 11:46:16 2021 +0200
+
+    Updated index.html with a new line
+
+[33mcommit 2865bcd417300075b07b5e80385ca74abcc0aabc[m
+Author: npaunovic <nvkpnvc@gmail.com>
+Date:   Fri May 21 11:43:50 2021 +0200
+
+    First release of HW sranja!
